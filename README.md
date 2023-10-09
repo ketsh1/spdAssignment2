@@ -66,4 +66,5 @@ abstract class CoffeeDecorator extends Coffee {
 
    ```shell
    git clone https://github.com/your-username/coffee-shop-terminal.git
+   ```
 
